@@ -34,7 +34,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> by Autumn Shakespeare and <i className="icon-beer" aria-hidden="true"></i><br></br>
+                  Made with <i className="icon-heart" aria-hidden="true" /> by Autumn Shakespeare<br></br>
               </small></p>
               <p><small>
                 Something coming soon !!

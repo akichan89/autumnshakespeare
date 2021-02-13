@@ -26,8 +26,8 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <span className="heading-meta">What I Do?</span>
+                <h2 className="colorlib-heading">Here Are Some Of My Skills</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites and chrome extentions using JavaScript,React, ReactNative, Python, HTML,CSS</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Development and Computer Science</h3>
+                    <p>I am pursuing my education in Development and Computer Science to exceed in my career and expand my knowledge to be the best developer I can be</p>
                 </div>
                 </div>
             </div>
