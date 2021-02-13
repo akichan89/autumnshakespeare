@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>Let me tell you a little bit about myself: I am a hard worker, determined, and love to live a positive life. I am Griffin Hill trained as well as CompTIA A+ certified which has made me very successful at making long time customers and money for companies. What this means for you and your company is: I will be a productive employee that will bring in revenue while making the customers feel comfortable and like I care about their needs, all while exceeding their expectations. Therefore, your company will have lifelong customers that will recommend you to their friends and family.</p>
                     <p>I am also a very fun, upbeat, perky young woman that can add to the already happy environment you have. As if that weren’t enough, I can put a smile on anyone's face! I would be an asset to your company!!</p>

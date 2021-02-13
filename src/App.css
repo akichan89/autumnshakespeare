@@ -20,7 +20,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: goldenrod;
 }
 
 @keyframes App-logo-spin {
@@ -30,4 +30,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  color: goldenrod;
+}
+
+.heading-meta {
+  color: goldenrod;
+}
+
+.desc > h1 {
+  color:goldenrod;
 }
