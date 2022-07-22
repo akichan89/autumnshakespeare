@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class Timeline extends Component {
   render() {
@@ -7,7 +7,10 @@ export default class Timeline extends Component {
         <section className="colorlib-experience" data-section="timeline">
           <div className="colorlib-narrow-content">
             <div className="row">
-              <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+              <div
+                className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+                data-animate-effect="fadeInLeft"
+              >
                 <span className="heading-meta">highlights</span>
                 <h2 className="colorlib-heading animate-box">Timeline</h2>
               </div>
@@ -15,43 +18,90 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>
+                          FULL STACK DEVELOPER | IT ADMIN | QA MANAGEMENT{" "}
+                          <span>2020-2022</span>
+                        </h2>
+                        <p>
+                          Design, build, or maintain websites, using authoring
+                          or scripting languages, content creation tools,
+                          management tools, and digital media. Confer with
+                          management or development teams to prioritize needs,
+                          resolve conflicts, develop content criteria, or choose
+                          solutions. Evaluate code to ensure that it is valid,
+                          is properly structured, meets industry standards, and
+                          is compatible with browsers, devices, or operating
+                          systems. Perform Internal IT Functions including
+                          computer provision and management, network management,
+                          and server management/repair. Manage DevOps for
+                          internal and external projects using DigitalOcean,
+                          GCP, and AWS with Git/GitHub integration. Developed
+                          and Manage Software QA Department
+                        </p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInTop"
+                  >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>
+                          Jr Developer at ZipZap<span>2022-Present</span>
+                        </h2>
+                        <p>
+                          Full stack developer for a fantastic start-up
+                          utilizing ReactJS, MaterialUI, GraphQL and AWS.
+                        </p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>
+                          Lead Technical Support Engineer <span>2019-2020</span>
+                        </h2>
+                        <p>
+                          Take inbound calls, chats, emails, etc... to assist
+                          resolve technical and network related issues for
+                          learners signed up for company courses Run bug tests
+                          and isolate coding related issues Work with
+                          development, CX and other related third-parties to
+                          resolve technical bugs and concerns Track financial
+                          reporting and change user access based on payments
+                          Assist IT workflow development and communication with
+                          Salesforce Built support KB and Community documents,
+                          training and workflows Basic HTML, CSS and JS coding
+                        </p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                  <article
+                    className="timeline-entry begin animate-box"
+                    data-animate-effect="fadeInBottom"
+                  >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
-                      </div>
+                      <div className="timeline-icon color-none"></div>
                     </div>
                   </article>
                 </div>
@@ -60,6 +110,6 @@ export default class Timeline extends Component {
           </div>
         </section>
       </div>
-    )
+    );
   }
 }
