@@ -225,7 +225,7 @@ figure figcaption {
   transform: scaleX(1);
 }
 #colorlib-aside #colorlib-main-menu ul li.active a {
-  color: #f1c9aa;
+  color: #d69460;
 }
 #colorlib-aside #colorlib-main-menu ul li.active a:after {
   visibility: visible;
@@ -427,7 +427,7 @@ figure figcaption {
 }
 #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
   color: #000;
-  border: 1px solid #000;
+  border: 3px solid #f1c9aa;
   background: transparent !important;
 }
 #colorlib-hero
@@ -435,8 +435,9 @@ figure figcaption {
   .slider-text
   > .slider-text-inner
   .btn.btn-learn:hover {
-  background: transparent !important;
-  border: 1px solid #000 !important;
+  background: #d69460 !important;
+  border: 3px solid #d69460 !important;
+  color: white;
 }
 @media screen and (max-width: 768px) {
   #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
@@ -1517,14 +1518,14 @@ body.offcanvas .colorlib-nav-toggle {
   border-color: #d69460 !important;
 }
 .btn-primary.btn-outline {
-  background: transparent;
+  background: #d69460;
   color: #f1c9aa;
   border: 2px solid #f1c9aa;
 }
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-  background: #f1c9aa;
+  background: #d69460;
   color: #fff;
 }
 

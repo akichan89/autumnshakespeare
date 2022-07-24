@@ -26,7 +26,11 @@ export default class Sidebar extends Component {
               <div className="author-img">
                 <img
                   src={ProfileImage}
-                  style={{ height: "100%", borderRadius: "12px" }}
+                  style={{
+                    height: "100%",
+                    borderRadius: "12px",
+                    boxShadow: "6px 6px 2px lightblue",
+                  }}
                 />
               </div>
               <h1 id="colorlib-logo">

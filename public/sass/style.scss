@@ -465,17 +465,18 @@ figure {
           font-size: 12px;
           text-transform: uppercase;
           letter-spacing: 2px;
-          color: $brand-black;
+          color: white;
           padding: 10px 15px !important;
           border: none;
           font-weight: 400;
           &.btn-learn {
-            color: $brand-black;
-            border: 1px solid $brand-black;
-            background: transparent !important;
+            color: white;
+            border: 1px solid #f1c9aa;
+            background: #f1c9aa !important;
             &:hover {
-              background: transparent !important;
-              border: 1px solid $brand-black !important;
+              background: #d69460 !important;
+              border: 1px solid #f1c9aa !important;
+              color: white;
             }
           }
           @media screen and (max-width: $screen-sm) {

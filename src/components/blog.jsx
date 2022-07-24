@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import laptop from "../photos/laptop.JPG";
+import thanos from "../photos/thanos.JPG";
+import computer from "../photos/computer.JPG";
 
 export default class Blog extends Component {
   render() {
@@ -21,8 +24,12 @@ export default class Blog extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="blog-entry">
-                  <a href="blog.html" className="blog-img">
-                    <img src="images/blog-1.jpg" className="img-responsive" />
+                  <a href="https://ladyndev.blogspot.com" className="blog-img">
+                    <img
+                      src={thanos}
+                      className="img-responsive"
+                      style={{ height: "300px", width: "100%" }}
+                    />
                   </a>
                   <div className="desc">
                     <span>
@@ -47,8 +54,12 @@ export default class Blog extends Component {
                 data-animate-effect="fadeInRight"
               >
                 <div className="blog-entry">
-                  <a href="blog.html" className="blog-img">
-                    <img src="images/blog-2.jpg" className="img-responsive" />
+                  <a href="https://ladyndev.blogspot.com" className="blog-img">
+                    <img
+                      src={laptop}
+                      className="img-responsive"
+                      style={{ height: "300px", width: "100%" }}
+                    />
                   </a>
                   <div className="desc">
                     <span>
@@ -60,7 +71,9 @@ export default class Blog extends Component {
                       </small>
                     </span>
                     <h3>
-                      <a href="blog.html">What Did I Do At DevPipeline?</a>
+                      <a href="https://ladyndev.blogspot.com">
+                        What Did I Do At DevPipeline?
+                      </a>
                     </h3>
                     <p>
                       DevPipeline was a unique expereince rich with real-world
@@ -74,10 +87,11 @@ export default class Blog extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <div className="blog-entry">
-                  <a href="blog.html" className="blog-img">
+                  <a href="https://ladyndev.blogspot.com" className="blog-img">
                     <img
-                      src="images/blog-3.jpg"
-                      className="img-responsive"
+                      src={computer}
+                      style={{ height: "300px", width: "100%" }}
+                      // className="img-responsive"
                       alt="HTML5 Bootstrap Template by colorlib.com"
                     />
                   </a>
@@ -91,7 +105,7 @@ export default class Blog extends Component {
                       </small>
                     </span>
                     <h3>
-                      <a href="blog.html">
+                      <a href="https://ladyndev.blogspot.com">
                         How I Built And Managed Departments From Scratch
                       </a>
                     </h3>
