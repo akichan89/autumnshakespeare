@@ -1,10 +1,15 @@
 import React, { Component } from "react";
 import pi from "../photos/pi.JPG";
-import me from "../photos/learning.JPG";
-import image from "../photos/image.JPG";
+import me from "../photos/learning.png";
+import image from "../photos/image.png";
+import { saveAs } from "file-saver";
+import resume from "../AutumnShakespeareWPhoto.pdf";
 
 export default class Introduction extends Component {
   render() {
+    const saveFile = () => {
+      saveAs(resume, "AutumnShakespeareResume.pdf");
+    };
     return (
       <div>
         <section
@@ -32,22 +37,38 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{ color: "#FF4800" }}>
-                            Hi! <br />
-                            I'm Autumn Shakespeare
-                          </h1>
-                          <p>
-                            <a
-                              style={{ color: "#8950C9" }}
-                              className="btn btn-primary btn-learn"
-                              href="https://drive.google.com/file/d/1pUFJUjGAkGUzzypS5Bg3UyKAQ2rL-U9X/view?usp=sharing"
-                              target="_blank"
-                              rel="noopener noreferrer"
+                          <div
+                            className="services color-5"
+                            style={{
+                              backgroundColor: "#f5f5f5",
+                              borderRadius: "9px",
+                            }}
+                          >
+                            <h1
+                              style={{
+                                color: "#D69460",
+                                fontSize: "48px",
+                                fontFamily: "Raleway",
+                              }}
                             >
-                              View Resume
-                              <i className="icon-download4" />
-                            </a>
-                          </p>
+                              Hello!
+                              <br />
+                              I'm Autumn Shakespeare
+                            </h1>
+                            <div>
+                              <button
+                                className="btn btn-primary btn-learn"
+                                onClick={saveFile}
+                                style={{ borderRadius: "12px" }}
+                              >
+                                Download Resume
+                                <i
+                                  className="icon-download4"
+                                  style={{ paddingLeft: "5px" }}
+                                />
+                              </button>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -58,11 +79,9 @@ export default class Introduction extends Component {
                 style={{
                   backgroundImage: `url(${me})`,
                   backgroundRepeat: "no-repeat",
-                  // backgroundSize: "contain",
-
-                  // backgroundPosition: "center",
-                  backgroundRepeat: "no-repeat",
-                  // backgroundSize: "cover",
+                  backgroundSize: "contain",
+                  backgroundPosition: "center",
+                  backgroundSize: "cover",
                   height: 700,
                   width: "100vw",
                   opacity: 0.2,
@@ -74,21 +93,37 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color: "#FF4800" }}>
-                            I love learning new tech and building
-                            <br /> THINGS!!
-                          </h1>
-                          <p>
-                            <a
-                              style={{ color: "#8950C9" }}
-                              className="btn btn-primary btn-learn"
-                              href="https://github.com/akichan89"
-                              target="_blank"
-                              rel="noopener noreferrer"
+                          <div
+                            className="services color-2"
+                            style={{
+                              backgroundColor: "#f5f5f5",
+                              borderRadius: "9px",
+                            }}
+                          >
+                            <h1
+                              style={{
+                                color: "#D69460",
+                                fontSize: "48px",
+                                fontFamily: "Raleway",
+                              }}
                             >
-                              View Projects <i className="icon-briefcase3" />
-                            </a>
-                          </p>
+                              I love learning new tech and building cool
+                              <br /> THINGS!!
+                            </h1>
+                            <div>
+                              <button
+                                className="btn btn-primary btn-learn"
+                                onClick={saveFile}
+                                style={{ borderRadius: "12px" }}
+                              >
+                                Download Resume
+                                <i
+                                  className="icon-download4"
+                                  style={{ paddingLeft: "5px" }}
+                                />
+                              </button>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -99,11 +134,9 @@ export default class Introduction extends Component {
                 style={{
                   backgroundImage: `url(${pi})`,
                   backgroundRepeat: "no-repeat",
-                  // backgroundSize: "contain",
-
-                  // backgroundPosition: "center",
-                  backgroundRepeat: "no-repeat",
-                  // backgroundSize: "cover",
+                  backgroundSize: "contain",
+                  backgroundPosition: "center",
+                  backgroundSize: "cover",
                   height: 700,
                   width: "100vw",
                   opacity: 0.2,
@@ -115,11 +148,38 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color: "#FF4800" }}>
-                            I often <br />
-                            play with Arduinos and PIs...{" "}
-                          </h1>
-                          <p>
+                          <div
+                            className="services color-3"
+                            style={{
+                              backgroundColor: "#f5f5f5",
+                              borderRadius: "9px",
+                            }}
+                          >
+                            <h1
+                              style={{
+                                color: "#D69460",
+                                fontSize: "48px",
+                                fontFamily: "Raleway",
+                              }}
+                            >
+                              I often <br />
+                              play with Arduino's and Raspberry Pi's...{" "}
+                            </h1>
+                            <div>
+                              <button
+                                className="btn btn-primary btn-learn"
+                                onClick={saveFile}
+                                style={{ borderRadius: "12px" }}
+                              >
+                                Download Resume
+                                <i
+                                  className="icon-download4"
+                                  style={{ paddingLeft: "5px" }}
+                                />
+                              </button>
+                            </div>
+                          </div>
+                          {/* <p>
                             <a
                               style={{ color: "#8950C9" }}
                               className="btn btn-primary btn-learn"
@@ -129,7 +189,7 @@ export default class Introduction extends Component {
                             >
                               View Blog <i className="icon-book" />
                             </a>
-                          </p>
+                          </p> */}
                         </div>
                       </div>
                     </div>

@@ -11,8 +11,13 @@ export default class Timeline extends Component {
                 className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <span className="heading-meta">Highlights</span>
+                <h2
+                  className="colorlib-heading animate-box"
+                  style={{ fontFamily: "Bitter" }}
+                >
+                  What Have I Been Up To?
+                </h2>
               </div>
             </div>
             <div className="row">
@@ -27,11 +32,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 style={{ fontFamily: "Bitter" }}>
                           FULL STACK DEVELOPER | IT ADMIN | QA MANAGEMENT{" "}
                           <span>2020-2022</span>
                         </h2>
-                        <p>
+                        <p style={{ fontFamily: "Raleway" }}>
                           Design, build, or maintain websites, using authoring
                           or scripting languages, content creation tools,
                           management tools, and digital media. Confer with
@@ -59,10 +64,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
-                          Jr Developer at ZipZap<span>2022-Present</span>
+                        <h2 style={{ fontFamily: "Bitter" }}>
+                          Jr Developer at ZipZap <span>2022-Present</span>
                         </h2>
-                        <p>
+                        <p style={{ fontFamily: "Raleway" }}>
                           Full stack developer for a fantastic start-up
                           utilizing ReactJS, MaterialUI, GraphQL and AWS.
                         </p>
@@ -78,10 +83,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 style={{ fontFamily: "Bitter" }}>
                           Lead Technical Support Engineer <span>2019-2020</span>
                         </h2>
-                        <p>
+                        <p style={{ fontFamily: "Raleway" }}>
                           Take inbound calls, chats, emails, etc... to assist
                           resolve technical and network related issues for
                           learners signed up for company courses Run bug tests

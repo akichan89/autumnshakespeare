@@ -50,9 +50,7 @@ export default class About extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">
-                  Here are some of my expertise
-                </h2>
+                <h2 className="colorlib-heading">Here are some of my skills</h2>
               </div>
             </div>
             <div className="row row-pt-md">
@@ -112,7 +110,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>Dev Ops</h3>
+                    <h3>DevOps</h3>
                     <p>
                       I have experience mangaing hosting and deployemnt through
                       DigitalOcean and establishiing a CI/CD pipeline with

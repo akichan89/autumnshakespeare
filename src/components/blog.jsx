@@ -22,11 +22,7 @@ export default class Blog extends Component {
               >
                 <div className="blog-entry">
                   <a href="blog.html" className="blog-img">
-                    <img
-                      src="images/blog-1.jpg"
-                      className="img-responsive"
-                      alt="HTML5 Bootstrap Template by colorlib.com"
-                    />
+                    <img src="images/blog-1.jpg" className="img-responsive" />
                   </a>
                   <div className="desc">
                     <span>
@@ -39,7 +35,7 @@ export default class Blog extends Component {
                     </span>
                     <h3>
                       <a href="https://ladyndev.blogspot.com/2022/07/what-are-my-special-skills-and.html">
-                        Renovating National Gallery
+                        What Makes Me Unique?
                       </a>
                     </h3>
                     <p>What Makes Me Unique? Read about it here!</p>
@@ -52,11 +48,7 @@ export default class Blog extends Component {
               >
                 <div className="blog-entry">
                   <a href="blog.html" className="blog-img">
-                    <img
-                      src="images/blog-2.jpg"
-                      className="img-responsive"
-                      alt="HTML5 Bootstrap Template by colorlib.com"
-                    />
+                    <img src="images/blog-2.jpg" className="img-responsive" />
                   </a>
                   <div className="desc">
                     <span>
@@ -109,15 +101,6 @@ export default class Blog extends Component {
                     </p>
                   </div>
                 </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-md-12 animate-box">
-                <p>
-                  <a href="#" className="btn btn-primary btn-lg btn-load-more">
-                    Load more <i className="icon-reload" />
-                  </a>
-                </p>
               </div>
             </div>
           </div>
