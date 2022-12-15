@@ -141,6 +141,9 @@ export default class Projects extends Component {
                 ReactNative
                 </li>
                 </ul>
+                 <h3>
+                        <a href="https://autumnshakespeare.com/">And More...</a>
+                      </h3>
               </div>
             </div>
           </div>
