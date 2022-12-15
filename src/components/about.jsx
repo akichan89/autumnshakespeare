@@ -19,20 +19,16 @@ export default class About extends Component {
                       <p>
                         Let me tell you a little bit about myself: I am a hard
                         worker, determined, and love to live a positive life. I
-                        am Griffin Hill trained as well as CompTIA A+ certified
-                        which has made me very successful at making long time
-                        customers and money for companies. What this means for
+                        am CompTIA A+ Certified with a Full Stack Web Development Certificate from Bottega University. I am also currently pursuing
+      my Bachelor Degree in Computer Science from WGU. What this means for
                         you and your company is: I will be a productive employee
-                        that will bring in revenue while making the customers
-                        feel comfortable and like I care about their needs, all
-                        while exceeding their expectations. Therefore, your
-                        company will have lifelong customers that will recommend
-                        you to their friends and family.
+                        that will bring creative, high-quality, production-ready code to every code commit. Therefore, I will contribute to your
+                        company in delivering an equally high-quality product for your market, tailored to your needs. 
                       </p>
                       <p>
                         I am also a very fun, upbeat, perky young woman that can
                         add to the already happy environment you have. As if
-                        that weren’t enough, I can put a smile on anyone's face!
+                        that weren’t enough, I can put a smile on any face!
                         I would be an asset to your company!!
                       </p>
                     </div>
@@ -59,13 +55,30 @@ export default class About extends Component {
                   <span className="icon">
                     <i className="icon-bulb" />
                   </span>
-                  <div className="desc">
-                    <h3>Web Development </h3>
+      <div className="desc">
+                    <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>
                     <p>
-                      I have experience building websites and chrome extentions
-                      using JavaScript,React,HTML,CSS. I work with Python and
-                      Flask for backend development and can pair that experience
-                      with PSQL, MongoDB and GraphQL.
+                      I currently build embedded software using C++ and Python for proprietary drones, as well as Android Studio App development using Java
+      on the Android Tactical Awareness Kit(ATAK) that controls the drone in flight. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
+                    </p>
+                    <br></br>
+
+                    <a
+                      href="https://ladyndev.blogspot.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: "#d69460" }}
+                    >
+                      Read More
+                    </a>
+                  </div>
+                  <div className="desc">
+                    <h3>Full Stack Web Development at DevPipeline</h3>
+                    <p>
+                      I have experience building web applications and chrome extentions
+                      using JavaScript, React, HTML, and CSS. I work with Python and
+                      Flask for backend development and can pair that
+                      with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
                     </p>
                     <br></br>
 
@@ -88,10 +101,10 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>IT Professional</h3>
                     <p>
-                      I am CompTIA A+ certified and can do everything from basic
+                      I am CompTIA A+ Certified and can do everything from basic
                       hardware support to networking, working with AD, various
-                      MDM software, AD, MacOS, Windows and Linux. As a bonus, I
-                      can cable my own ethernet cables!
+                      MDM software, Data Center Help Desk experience, MacOS, Windows and Linux. As a bonus, I
+                      can terminate my own ethernet cables!
                     </p>
                     <br></br>
 
@@ -114,8 +127,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>DevOps</h3>
                     <p>
-                      I have experience mangaing hosting and deployemnt through
-                      DigitalOcean and establishiing a CI/CD pipeline with
+                      I have experience mangaing, hosting and deployemnt through
+                      DigitalOcean and establishing a CI/CD pipeline with
                       GitHub Actions. I have understanding and training working
                       with AWS and Google Cloud Platform as well. For fun, I
                       learned Jenkins, Chef and Ansible.
