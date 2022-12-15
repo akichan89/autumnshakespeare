@@ -74,7 +74,7 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="autumnshakespeare.com">Famlinc</a>
+                        <a href="app.zipzap.gifts.com">ZipZapGifts</a>
                       </h3>
                       <span>Web Application</span>
                     </div>
@@ -100,6 +100,47 @@ export default class Projects extends Component {
                 >
                   My Skills
                 </h2>
+                <ul>
+                <li>
+                ReactJS
+                </li>
+                <li>
+                Python
+                </li>
+                <li>
+                Flask
+                </li>
+                <li>
+                Java
+                </li>
+                <li>
+                C/C++
+                </li>
+                <li>
+                WordPress
+                </li>
+                <li>
+                MongoDb
+                </li>
+                <li>
+                PostGreSQL
+                </li>
+                <li>
+                GraphQL
+                </li>
+                <li>
+                AWS
+                </li>
+                <li>
+                DigitalOcean
+                </li>
+                <li>
+                AndroidStudio
+                </li>
+                <li>
+                ReactNative
+                </li>
+                </ul>
               </div>
             </div>
           </div>
