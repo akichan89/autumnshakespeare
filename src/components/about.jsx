@@ -63,8 +63,7 @@ is how I would exceed expectations at your company.
       <div className="desc">
                     <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>
                     <p>
-                  Embedded software development using C++ and Python, Android Studio App development, Java
-      on the Android Tactical Awareness Kit(ATAK) that controls the drone in flight. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
+                  Embedded software development using C++ and Python, Android Studio App development, Java, ATAK, ArduPilot.
                     </p>
                     <a
                       href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
@@ -103,6 +102,56 @@ is how I would exceed expectations at your company.
                 </div>
               </div>
               <div className="col-md-4 text-center animate-box">
+                <div className="services color-5">
+                  <span className="icon">
+                    <i className="icon-data" />
+                  </span>
+                  <div className="desc">
+                    <h3>DevOps</h3>
+                    <p>
+                      I have experience mangaing, hosting and deployemnt through
+                      DigitalOcean and establishing a CI/CD pipeline with
+                      GitHub Actions. I have understanding and training working
+                      with AWS and Google Cloud Platform as well. For fun, I
+                      learned Jenkins, Chef and Ansible.
+                    </p>
+                    <a
+                      href="https://ladyndev.blogspot.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: "#d69460" }}
+                    >
+                      Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+<div className="col-md-4 text-center animate-box">
+                <div className="services color-5">
+                  <span className="icon">
+                    <i className="icon-data" />
+                  </span>
+                  <div className="desc">
+                    <h3>DevOps</h3>
+                    <p>
+                      I have experience mangaing, hosting and deployemnt through
+                      DigitalOcean and establishing a CI/CD pipeline with
+                      GitHub Actions. I have understanding and training working
+                      with AWS and Google Cloud Platform as well. For fun, I
+                      learned Jenkins, Chef and Ansible.
+                    </p>
+                    <a
+                      href="https://ladyndev.blogspot.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: "#d69460" }}
+                    >
+                      Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+<div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
                     <i className="icon-data" />
