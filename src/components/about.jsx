@@ -17,13 +17,18 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        Let me tell you a little bit about myself: I am a hard
-                        worker, determined, and love to live a positive life. I
-                        am CompTIA A+ Certified with a Full Stack Web Development Certificate from Bottega University. I am also currently pursuing
-      my Bachelor Degree in Computer Science from WGU. What this means for
-                        you and your company is: I will be a productive employee
-                        that will bring creative, high-quality, production-ready code to every code commit. Therefore, I will contribute to your
-                        company in delivering an equally high-quality product for your market, tailored to your needs. 
+Let me tell you a little bit about myself: I am a hard worker,
+determined, and love to live a positive life. I completed a Full Stack
+Web Development (Python+React) Certification and graduating with
+an Associates in Computer Science from Bottega University and
+working towards a Bachelor's in Computer Science from Western
+Governor's University. I am a self trained IT Professional, with a
+previous CompTIA A+ certification. With over seven years of tech and
+software related experience, I am capable of problem solving, self
+study and quality work consistent with a growth mindset. This
+determination assists in delivering nothing less than a quality ; which
+is how I would exceed expectations at your company.
+
                       </p>
                       <p>
                         I am also a very fun, upbeat, perky young woman that can
