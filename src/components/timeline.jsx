@@ -31,6 +31,34 @@ export default class Timeline extends Component {
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
+                                            <div className="timeline-label">
+                        <h2 style={{ fontFamily: "Bitter" }}>
+                          EMBEDDED SOFTWARE DEVELOPER{" "}
+                          <span>2022-Present</span>
+                        </h2>
+                        <p style={{ fontFamily: "Raleway" }}>
+                          CI/CD implementation for GitLab instance.
+Embedded website development for performing software updates,
+restore points, licensing and log retrieval using Vanilla JavaScript,
+Bootstrap, Python/Flask and ARM64.
+ATAK plugin development using Ardupilot, Android Studio, Java and
+MAVlink/PyMAVlink.
+Bug fixes for firmware, software and web based systems.
+Test fixture development for hardware boards using CANbus, Ardupilot,
+UAVcan and Python.
+Software and hardware testing and troubleshooting.
+                                                  </p>
+                      </div>
+                    </div>
+                  </article>
+                                    <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
                       <div className="timeline-label">
                         <h2 style={{ fontFamily: "Bitter" }}>
                           FULL STACK DEVELOPER | IT ADMIN | QA MANAGEMENT{" "}
