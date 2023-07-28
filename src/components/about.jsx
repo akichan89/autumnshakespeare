@@ -65,6 +65,8 @@ is how I would exceed expectations at your company.
                     <p>
   I currently build embedded software using C++ and Python for proprietary drones, Android Studio development, Java and ATAK. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
                     </p>
+                    <br />
+                    <br />
                     <a
                       href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
                       target="_blank"
@@ -88,6 +90,7 @@ is how I would exceed expectations at your company.
                       using JavaScript, React, HTML, and CSS. For backend: Python/Flask and can pair that
                       with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
                     </p>
+                    <br />
                     <a
                        href="https://devpipeline.com/"
                       target="_blank"
