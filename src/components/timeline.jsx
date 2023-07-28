@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                                             <div className="timeline-label">
                         <h2 style={{ fontFamily: "Bitter" }}>
-                          EMBEDDED SOFTWARE DEVELOPER{" "}
+                          EMBEDDED SOFTWARE DEVELOPER - LOCKHEED MARTIN{" "}
                           <span>2022-Present</span>
                         </h2>
                         <p style={{ fontFamily: "Raleway" }}>
@@ -61,7 +61,7 @@ Software and hardware testing and troubleshooting.
                       </div>
                       <div className="timeline-label">
                         <h2 style={{ fontFamily: "Bitter" }}>
-                          FULL STACK DEVELOPER | IT ADMIN | QA MANAGEMENT{" "}
+                          FULL STACK DEVELOPER | IT ADMIN | QA MANAGEMENT - DEVPIPELINE{" "}
                           <span>2020-2022</span>
                         </h2>
                         <p style={{ fontFamily: "Raleway" }}>
@@ -93,7 +93,7 @@ Software and hardware testing and troubleshooting.
                       </div>
                       <div className="timeline-label">
                         <h2 style={{ fontFamily: "Bitter" }}>
-                          Jr Developer at ZipZap <span>2022-Present</span>
+                          JR SOFTWARE DEVELOPER - ZIPZAP GIFTS <span>2022-Present</span>
                         </h2>
                         <p style={{ fontFamily: "Raleway" }}>
                           Full stack developer for a fantastic start-up
