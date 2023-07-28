@@ -63,11 +63,9 @@ is how I would exceed expectations at your company.
       <div className="desc">
                     <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>
                     <p>
-                      I currently build embedded software using C++ and Python for proprietary drones, as well as Android Studio App development using Java
+                  Embedded software development using C++ and Python, Android Studio App development, Java
       on the Android Tactical Awareness Kit(ATAK) that controls the drone in flight. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
                     </p>
-                    <br></br>
-
                     <a
                       href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
                       target="_blank"
@@ -92,8 +90,7 @@ is how I would exceed expectations at your company.
                       Flask for backend development and can pair that
                       with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
                     </p>
-                    <br></br>
-
+                    </p>
                     <a
                       href="https://devpipeline.com/"
                       target="_blank"
