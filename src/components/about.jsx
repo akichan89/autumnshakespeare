@@ -61,7 +61,7 @@ is how I would exceed expectations at your company.
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-         <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>       
+         <h3>Embedded Software Development</h3>       
                     <p>
   I currently build embedded software using C++ and Python for proprietary drones, Android Studio development, Java and ATAK. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
                     </p>
@@ -82,7 +82,7 @@ is how I would exceed expectations at your company.
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                         <h3>Full Stack Web Development at DevPipeline</h3>
+                         <h3>Full Stack Web Development</h3>
                     <p>
                     I built full stack web applications
                       using JavaScript, React, HTML, and CSS. For backend: Python/Flask and can pair that
@@ -105,7 +105,7 @@ is how I would exceed expectations at your company.
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>DevOps</h3>
+                    <h3>DevOps and CI/CD</h3>
                     <p>
                       I have experience mangaing, hosting and deployemnt through
                       DigitalOcean and establishing a CI/CD pipeline with
