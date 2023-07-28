@@ -69,26 +69,7 @@ is how I would exceed expectations at your company.
                     <br></br>
 
                     <a
-                      href="https://ladyndev.blogspot.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{ color: "#d69460" }}
-                    >
-                      Read More
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h3>Full Stack Web Development at DevPipeline</h3>
-                    <p>
-                      I have experience building web applications and chrome extentions
-                      using JavaScript, React, HTML, and CSS. I work with Python and
-                      Flask for backend development and can pair that
-                      with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
-                    </p>
-                    <br></br>
-
-                    <a
-                      href="https://ladyndev.blogspot.com/"
+                      href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#d69460" }}
@@ -104,17 +85,17 @@ is how I would exceed expectations at your company.
                     <i className="icon-phone3" />
                   </span>
                   <div className="desc">
-                    <h3>IT Professional</h3>
+                    <h3>Full Stack Web Development at DevPipeline</h3>
                     <p>
-                      I am CompTIA A+ Certified and can do everything from basic
-                      hardware support to networking, working with AD, various
-                      MDM software, Data Center Help Desk experience, MacOS, Windows and Linux. As a bonus, I
-                      can terminate my own ethernet cables!
+                      I have experience building web applications and chrome extentions
+                      using JavaScript, React, HTML, and CSS. I work with Python and
+                      Flask for backend development and can pair that
+                      with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
                     </p>
                     <br></br>
 
                     <a
-                      href="https://ladyndev.blogspot.com/"
+                      href="https://devpipeline.com/"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#d69460" }}
