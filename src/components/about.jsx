@@ -56,67 +56,17 @@ is how I would exceed expectations at your company.
             </div>
             <div className="row row-pt-md">
               <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                  <span className="icon">
-                    <i className="icon-bulb" />
-                  </span>
-      <div className="desc">
-                    <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>
-                    <p>
-                  Embedded software development using C++ and Python, Android Studio App development, Java, ATAK, ArduPilot.
-                    </p>
-                    <a
-                      href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{ color: "#d69460" }}
-                    >
-                      Read More
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                  <span className="icon">
-                    <i className="icon-phone3" />
-                  </span>
-                  <div className="desc">
-                    <h3>Full Stack Web Development at DevPipeline</h3>
-                    <p>
-                      I have experience building web applications and chrome extentions
-                      using JavaScript, React, HTML, and CSS. I work with Python and
-                      Flask for backend development and can pair that
-                      with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
-                    </p>
-                    </p>
-                    <a
-                      href="https://devpipeline.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{ color: "#d69460" }}
-                    >
-                      Read More
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>DevOps</h3>
+         <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>       
                     <p>
-                      I have experience mangaing, hosting and deployemnt through
-                      DigitalOcean and establishing a CI/CD pipeline with
-                      GitHub Actions. I have understanding and training working
-                      with AWS and Google Cloud Platform as well. For fun, I
-                      learned Jenkins, Chef and Ansible.
+  I currently build embedded software using C++ and Python for proprietary drones, as well as Android Studio App development using Java on the Android Tactical Awareness Kit(ATAK) that controls the drone in flight. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
                     </p>
                     <a
-                      href="https://ladyndev.blogspot.com/"
+                      href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#d69460" }}
@@ -132,16 +82,15 @@ is how I would exceed expectations at your company.
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>DevOps</h3>
+                         <h3>Full Stack Web Development at DevPipeline</h3>
                     <p>
-                      I have experience mangaing, hosting and deployemnt through
-                      DigitalOcean and establishing a CI/CD pipeline with
-                      GitHub Actions. I have understanding and training working
-                      with AWS and Google Cloud Platform as well. For fun, I
-                      learned Jenkins, Chef and Ansible.
+                    I have experience building web applications and chrome extentions
+                      using JavaScript, React, HTML, and CSS. I work with Python and
+                      Flask for backend development and can pair that
+                      with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
                     </p>
                     <a
-                      href="https://ladyndev.blogspot.com/"
+                       href="https://devpipeline.com/"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#d69460" }}
