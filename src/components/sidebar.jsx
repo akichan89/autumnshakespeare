@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { saveAs } from "file-saver";
 import ProfileImage from "../photos/me.jpeg";
-import resume from "../AutumnShakespeareWPhoto.pdf";
+import resume from "../2023AutumnShakespeareResume.pdf";
 
 export default class Sidebar extends Component {
   render() {
