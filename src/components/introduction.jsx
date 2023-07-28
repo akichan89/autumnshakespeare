@@ -3,7 +3,7 @@ import pi from "../photos/pi.JPG";
 import me from "../photos/learning.png";
 import image from "../photos/image.png";
 import { saveAs } from "file-saver";
-import resume from "../AutumnShakespeareWPhoto.pdf";
+import resume from "../2023AutumnShakespeareResume.pdf";
 
 export default class Introduction extends Component {
   render() {
