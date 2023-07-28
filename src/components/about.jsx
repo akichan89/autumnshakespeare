@@ -63,7 +63,7 @@ is how I would exceed expectations at your company.
                   <div className="desc">
          <h3>Embedded Software Development at Lockheed Martin Skunk Works </h3>       
                     <p>
-  I currently build embedded software using C++ and Python for proprietary drones, as well as Android Studio App development using Java on the Android Tactical Awareness Kit(ATAK) that controls the drone in flight. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
+  I currently build embedded software using C++ and Python for proprietary drones, Android Studio development, Java and ATAK. These tasks have also exposed me to CAN, Mavlink and microcontroller development.
                     </p>
                     <a
                       href="https://www.lockheedmartin.com/en-us/products/procerus-technologies/indago-unmanned-aerial-system.html"
@@ -84,9 +84,8 @@ is how I would exceed expectations at your company.
                   <div className="desc">
                          <h3>Full Stack Web Development at DevPipeline</h3>
                     <p>
-                    I have experience building web applications and chrome extentions
-                      using JavaScript, React, HTML, and CSS. I work with Python and
-                      Flask for backend development and can pair that
+                    I built full stack web applications
+                      using JavaScript, React, HTML, and CSS. For backend: Python/Flask and can pair that
                       with PostgreSQL, MongoDB or GraphQL. I can take a project from start to finish: Design-Deployment.
                     </p>
                     <a
